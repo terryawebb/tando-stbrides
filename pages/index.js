@@ -9,11 +9,10 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
-        <Header title="Olivia & Terry are getting married!" />
+        <Header title="Olivia & Terry are getting wed, and you're invited!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Please join us on 26 Oct 2024.
         </p>
       </main>
 
